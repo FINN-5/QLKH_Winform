@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Code\\baitaplonC#\\baitaplonC#\\baitaplonC#.csproj",
+      "projectUniqueName": "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj",
       "projectName": "baitaplonC#",
-      "projectPath": "D:\\C#\\Code\\baitaplonC#\\baitaplonC#\\baitaplonC#.csproj",
+      "projectPath": "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Code\\baitaplonC#\\baitaplonC#\\obj\\",
+      "outputPath": "D:\\C#\\Code_git\\baitaplonC#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

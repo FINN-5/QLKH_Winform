@@ -1,6 +1,6 @@
 ﻿namespace baitaplonC_
 {
-    partial class Form1
+    partial class gdchinh
     {
         /// <summary>
         ///  Required designer variable.
@@ -32,8 +32,8 @@
             button3 = new Button();
             button2 = new Button();
             button4 = new Button();
-            button5 = new Button();
-            button6 = new Button();
+            qlhhbtn = new Button();
+            qlgianhapbtn = new Button();
             button8 = new Button();
             button9 = new Button();
             button10 = new Button();
@@ -42,16 +42,19 @@
             // button1
             // 
             button1.BackColor = Color.FromArgb(255, 128, 0);
+            button1.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.Location = new Point(204, 34);
             button1.Name = "button1";
             button1.Size = new Size(173, 63);
             button1.TabIndex = 0;
-            button1.Text = "Đổi Mật Khẩu ";
+            button1.Text = "Đổi Mật Khẩu";
+            button1.UseMnemonic = false;
             button1.UseVisualStyleBackColor = false;
             // 
             // button3
             // 
             button3.BackColor = Color.FromArgb(255, 128, 0);
+            button3.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button3.Location = new Point(204, 127);
             button3.Name = "button3";
             button3.Size = new Size(173, 63);
@@ -79,25 +82,28 @@
             button4.Text = "Quản Lý Tài Khoản";
             button4.UseVisualStyleBackColor = false;
             // 
-            // button5
+            // qlhhbtn
             // 
-            button5.BackColor = SystemColors.ActiveCaption;
-            button5.Location = new Point(39, 352);
-            button5.Name = "button5";
-            button5.Size = new Size(312, 45);
-            button5.TabIndex = 5;
-            button5.Text = "Quản Lý Hàng Hóa";
-            button5.UseVisualStyleBackColor = false;
+            qlhhbtn.BackColor = SystemColors.ActiveCaption;
+            qlhhbtn.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            qlhhbtn.Location = new Point(39, 352);
+            qlhhbtn.Name = "qlhhbtn";
+            qlhhbtn.Size = new Size(312, 45);
+            qlhhbtn.TabIndex = 5;
+            qlhhbtn.Text = "Quản Lý Hàng Hóa";
+            qlhhbtn.UseVisualStyleBackColor = false;
+            qlhhbtn.Click += qlhhbtn_Click;
             // 
-            // button6
+            // qlgianhapbtn
             // 
-            button6.BackColor = SystemColors.ActiveCaption;
-            button6.Location = new Point(39, 415);
-            button6.Name = "button6";
-            button6.Size = new Size(312, 45);
-            button6.TabIndex = 6;
-            button6.Text = "Quản Lý Giá Nhập";
-            button6.UseVisualStyleBackColor = false;
+            qlgianhapbtn.BackColor = SystemColors.ActiveCaption;
+            qlgianhapbtn.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            qlgianhapbtn.Location = new Point(39, 415);
+            qlgianhapbtn.Name = "qlgianhapbtn";
+            qlgianhapbtn.Size = new Size(312, 45);
+            qlgianhapbtn.TabIndex = 6;
+            qlgianhapbtn.Text = "Quản Lý Giá Nhập";
+            qlgianhapbtn.UseVisualStyleBackColor = false;
             // 
             // button8
             // 
@@ -138,15 +144,14 @@
             Controls.Add(button8);
             Controls.Add(button9);
             Controls.Add(button10);
-            Controls.Add(button6);
-            Controls.Add(button5);
+            Controls.Add(qlgianhapbtn);
+            Controls.Add(qlhhbtn);
             Controls.Add(button4);
             Controls.Add(button2);
             Controls.Add(button3);
             Controls.Add(button1);
             Name = "Form1";
             Text = "Phần Mềm Quản Lý Kho Hàng";
-            Load += Form1_Load;
             ResumeLayout(false);
         }
 
@@ -156,8 +161,8 @@
         private Button button3;
         private Button button2;
         private Button button4;
-        private Button button5;
-        private Button button6;
+        private Button qlhhbtn;
+        private Button qlgianhapbtn;
         private Button button8;
         private Button button9;
         private Button button10;

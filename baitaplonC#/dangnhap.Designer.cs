@@ -1,6 +1,6 @@
 ﻿namespace baitaplonC_
 {
-    partial class Form2
+    partial class dangnhap
     {
         /// <summary>
         /// Required designer variable.
@@ -63,11 +63,10 @@
             // 
             // label2
             // 
-            label2.AutoSize = true;
             label2.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.Location = new Point(12, 142);
             label2.Name = "label2";
-            label2.Size = new Size(94, 23);
+            label2.Size = new Size(102, 23);
             label2.TabIndex = 3;
             label2.Text = "Mật Khẩu";
             // 
@@ -99,7 +98,6 @@
             checkBox1.TabIndex = 6;
             checkBox1.Text = "Hiện Mật Khẩu";
             checkBox1.UseVisualStyleBackColor = true;
-            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
             // Form2
             // 
@@ -116,7 +114,6 @@
             Controls.Add(textBox1);
             Name = "Form2";
             Text = "Đăng Nhập";
-            Load += Form2_Load;
             ResumeLayout(false);
             PerformLayout();
         }
