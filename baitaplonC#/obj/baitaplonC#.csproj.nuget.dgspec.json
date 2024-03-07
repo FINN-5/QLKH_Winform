@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj": {}
+    "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\baitaplonC#.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj": {
+    "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\baitaplonC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj",
+        "projectUniqueName": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\baitaplonC#.csproj",
         "projectName": "baitaplonC#",
-        "projectPath": "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Code_git\\baitaplonC#\\obj\\",
+        "projectPath": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\baitaplonC#.csproj",
+        "packagesPath": "C:\\Users\\HP VICTUS\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
