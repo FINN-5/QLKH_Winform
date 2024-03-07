@@ -1,6 +1,6 @@
 ﻿namespace baitaplonC_
 {
-    partial class gdchinh
+    partial class Gdchinh
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Gdchinh));
             button1 = new Button();
             button3 = new Button();
             button2 = new Button();
@@ -84,7 +85,7 @@
             // 
             // qlhhbtn
             // 
-            qlhhbtn.BackColor = SystemColors.ActiveCaption;
+            qlhhbtn.BackColor = Color.Wheat;
             qlhhbtn.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             qlhhbtn.Location = new Point(39, 352);
             qlhhbtn.Name = "qlhhbtn";
@@ -92,11 +93,10 @@
             qlhhbtn.TabIndex = 5;
             qlhhbtn.Text = "Quản Lý Hàng Hóa";
             qlhhbtn.UseVisualStyleBackColor = false;
-            qlhhbtn.Click += qlhhbtn_Click;
             // 
             // qlgianhapbtn
             // 
-            qlgianhapbtn.BackColor = SystemColors.ActiveCaption;
+            qlgianhapbtn.BackColor = Color.Wheat;
             qlgianhapbtn.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             qlgianhapbtn.Location = new Point(39, 415);
             qlgianhapbtn.Name = "qlgianhapbtn";
@@ -135,11 +135,11 @@
             button10.Text = "Quản Lý Giá Xuất";
             button10.UseVisualStyleBackColor = false;
             // 
-            // Form1
+            // Gdchinh
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = Properties.Resources.z5212876671755_bbb3e0cae80caaa7587d208235d2ee32;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1310, 762);
             Controls.Add(button8);
             Controls.Add(button9);
@@ -150,7 +150,7 @@
             Controls.Add(button2);
             Controls.Add(button3);
             Controls.Add(button1);
-            Name = "Form1";
+            Name = "Gdchinh";
             Text = "Phần Mềm Quản Lý Kho Hàng";
             ResumeLayout(false);
         }

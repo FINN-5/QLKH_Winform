@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace baitaplonC_
 {
-    public partial class dangnhap : Form
+    public partial class Dangnhap : Form
     {
-        public dangnhap()
+        public Dangnhap()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace baitaplonC_
 {
-    partial class dangnhap
+    partial class Dangnhap
     {
         /// <summary>
         /// Required designer variable.

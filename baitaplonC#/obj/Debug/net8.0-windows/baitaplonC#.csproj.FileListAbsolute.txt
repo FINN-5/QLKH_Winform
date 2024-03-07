@@ -21,8 +21,6 @@ D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.deps.json
 D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.runtimeconfig.json
 D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.dll
 D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.pdb
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Form1.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Form2.resources
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Properties.Resources.resources
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.GenerateResource.cache
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.GeneratedMSBuildEditorConfig.editorconfig
@@ -35,3 +33,6 @@ D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\refint\baitaplonC#.dll
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.pdb
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.genruntimeconfig.cache
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
+D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.dangnhap.resources
+D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.gdchinh.resources
+D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.qlhhform.resources

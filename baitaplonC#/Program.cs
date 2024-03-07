@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace baitaplonC_
 {
     internal static class Program
@@ -8,10 +10,11 @@ namespace baitaplonC_
         [STAThread]
         static void Main()
         {
+            Console.OutputEncoding = Encoding.Unicode;
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new gdchinh());
+            Application.Run(new Qlhhform());
         }
     }
 }

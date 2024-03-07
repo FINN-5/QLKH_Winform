@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace baitaplonC_
 {
-    public partial class qlhhform : Form
+    public partial class Qlhhform : Form
     {
-        public qlhhform()
+        public Qlhhform()
         {
             InitializeComponent();
         }

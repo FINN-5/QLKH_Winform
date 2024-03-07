@@ -1,15 +1,10 @@
 namespace baitaplonC_
 {
-    public partial class gdchinh : Form
+    public partial class Gdchinh : Form
     {
-        public gdchinh()
+        public Gdchinh()
         {
             InitializeComponent();
-        }
-
-        private void qlhhbtn_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
