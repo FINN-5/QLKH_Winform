@@ -134,6 +134,7 @@ namespace baitaplonC_
             button1.TabIndex = 1;
             button1.Text = "Thêm";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // panel1
             // 
@@ -154,8 +155,10 @@ namespace baitaplonC_
             dtgvHang.Name = "dtgvHang";
             dtgvHang.ReadOnly = true;
             dtgvHang.RowHeadersWidth = 51;
-            dtgvHang.Size = new Size(722, 93);
+            dtgvHang.Size = new Size(722, 54);
             dtgvHang.TabIndex = 5;
+            dtgvHang.RowsAdded += dtgvHang_RowsAdded;
+            dtgvHang.RowsRemoved += dtgvHang_RowsRemoved;
             // 
             // Qlhhform
             // 
@@ -181,7 +184,6 @@ namespace baitaplonC_
         private Button button3;
         private Button button2;
         private Button button1;
-        private Panel panel4;
         private Panel panel1;
         private TextBox textBox1;
         private TextBox textBox2;
