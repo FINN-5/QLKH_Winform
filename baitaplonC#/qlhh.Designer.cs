@@ -38,17 +38,11 @@ namespace baitaplonC_
             button3 = new Button();
             button2 = new Button();
             button1 = new Button();
-            dataGridView1 = new DataGridView();
-            Column1 = new DataGridViewTextBoxColumn();
-            Column4 = new DataGridViewTextBoxColumn();
-            Column2 = new DataGridViewTextBoxColumn();
-            Column3 = new DataGridViewTextBoxColumn();
             panel1 = new Panel();
             dtgvHang = new DataGridView();
             panel4 = new Panel();
             panel4.SuspendLayout();
             panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dtgvHang).BeginInit();
             SuspendLayout();
@@ -63,7 +57,7 @@ namespace baitaplonC_
             panel4.Controls.Add(textBox1);
             panel4.Location = new Point(165, 410);
             panel4.Name = "panel4";
-            panel4.Size = new Size(722, 63);
+            panel4.Size = new Size(723, 63);
             panel4.TabIndex = 5;
             // 
             // button4
@@ -141,55 +135,10 @@ namespace baitaplonC_
             button1.Text = "Thêm";
             button1.UseVisualStyleBackColor = false;
             // 
-            // dataGridView1
-            // 
-            dataGridView1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-            dataGridView1.CausesValidation = false;
-            dataGridView1.ColumnHeadersHeight = 43;
-            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Column1, Column4, Column2, Column3 });
-            dataGridView1.Location = new Point(-3, 0);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 55;
-            dataGridView1.Size = new Size(722, 73);
-            dataGridView1.TabIndex = 4;
-            // 
-            // Column1
-            // 
-            Column1.AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
-            Column1.FillWeight = 90F;
-            Column1.HeaderText = "Tên đăng nhập";
-            Column1.MinimumWidth = 6;
-            Column1.Name = "Column1";
-            Column1.ReadOnly = true;
-            Column1.Width = 140;
-            // 
-            // Column4
-            // 
-            Column4.HeaderText = "Họ và tên";
-            Column4.MinimumWidth = 6;
-            Column4.Name = "Column4";
-            Column4.ReadOnly = true;
-            // 
-            // Column2
-            // 
-            Column2.HeaderText = "Điện thoại";
-            Column2.MinimumWidth = 6;
-            Column2.Name = "Column2";
-            Column2.ReadOnly = true;
-            // 
-            // Column3
-            // 
-            Column3.HeaderText = "Địa chỉ";
-            Column3.MinimumWidth = 6;
-            Column3.Name = "Column3";
-            Column3.ReadOnly = true;
-            // 
             // panel1
             // 
             panel1.BackColor = SystemColors.InactiveCaption;
             panel1.Controls.Add(dtgvHang);
-            panel1.Controls.Add(dataGridView1);
             panel1.Location = new Point(165, 1);
             panel1.Name = "panel1";
             panel1.Size = new Size(722, 413);
@@ -197,9 +146,13 @@ namespace baitaplonC_
             // 
             // dtgvHang
             // 
+            dtgvHang.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dtgvHang.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dtgvHang.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
             dtgvHang.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dtgvHang.Location = new Point(-3, 137);
+            dtgvHang.Location = new Point(0, 3);
             dtgvHang.Name = "dtgvHang";
+            dtgvHang.ReadOnly = true;
             dtgvHang.RowHeadersWidth = 51;
             dtgvHang.Size = new Size(722, 93);
             dtgvHang.TabIndex = 5;
@@ -208,7 +161,7 @@ namespace baitaplonC_
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(887, 473);
+            ClientSize = new Size(888, 473);
             Controls.Add(panel1);
             Controls.Add(panel4);
             Controls.Add(panel3);
@@ -217,7 +170,6 @@ namespace baitaplonC_
             panel4.ResumeLayout(false);
             panel4.PerformLayout();
             panel3.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)dtgvHang).EndInit();
             ResumeLayout(false);
@@ -229,12 +181,7 @@ namespace baitaplonC_
         private Button button3;
         private Button button2;
         private Button button1;
-        private DataGridView dataGridView1;
         private Panel panel4;
-        private DataGridViewTextBoxColumn Column1;
-        private DataGridViewTextBoxColumn Column4;
-        private DataGridViewTextBoxColumn Column2;
-        private DataGridViewTextBoxColumn Column3;
         private Panel panel1;
         private TextBox textBox1;
         private TextBox textBox2;

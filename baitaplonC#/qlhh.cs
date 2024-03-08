@@ -17,11 +17,12 @@ namespace baitaplonC_
             InitializeComponent();
             TruyVanDL();
         }
+        public void TruyVanDL()
+        {
+            string query = "SELECT * FROM doituong";
+            DataProvider provider = new DataProvider();
+            dtgvHang.DataSource = provider.ExecuteQuery(query);
+        }
     }
-    public void TruyVanDL()
-    {
-        string query = "SELECT * FROM doituong";
-        DataProvider provider = new DataProvider();
-        DataGridView.DataSource = provider.ExecuteQuery(query);
-    }
+    
 }
