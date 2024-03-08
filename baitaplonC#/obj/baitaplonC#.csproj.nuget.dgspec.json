@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\baitaplonC#.csproj": {}
+    "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj": {}
   },
   "projects": {
-    "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\baitaplonC#.csproj": {
+    "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\baitaplonC#.csproj",
+        "projectUniqueName": "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj",
         "projectName": "baitaplonC#",
-        "projectPath": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\baitaplonC#.csproj",
-        "packagesPath": "C:\\Users\\HP VICTUS\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\QLKH_Winform\\baitaplonC#\\obj\\",
+        "projectPath": "D:\\C#\\Code_git\\baitaplonC#\\baitaplonC#.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Code_git\\baitaplonC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,28 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "SqlConnection": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,7 +11,6 @@ namespace baitaplonC_
     public class DataProvider
     {
         private string connectionStr = "Data Source=.\\SQLEXPRESS;Initial Catalog=QLKH;Integrated Security=True;Encrypt=False";
-
         public DataTable ExecuteQuery(string query)
         {
             SqlConnection connection = new SqlConnection(connectionStr);

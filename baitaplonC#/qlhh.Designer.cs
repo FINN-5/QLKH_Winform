@@ -31,6 +31,7 @@ namespace baitaplonC_
         private void InitializeComponent()
         {
             Panel panel4;
+            button4 = new Button();
             textBox2 = new TextBox();
             textBox1 = new TextBox();
             panel3 = new Panel();
@@ -43,12 +44,13 @@ namespace baitaplonC_
             Column2 = new DataGridViewTextBoxColumn();
             Column3 = new DataGridViewTextBoxColumn();
             panel1 = new Panel();
-            button4 = new Button();
+            dtgvHang = new DataGridView();
             panel4 = new Panel();
             panel4.SuspendLayout();
             panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dtgvHang).BeginInit();
             SuspendLayout();
             // 
             // panel4
@@ -63,6 +65,17 @@ namespace baitaplonC_
             panel4.Name = "panel4";
             panel4.Size = new Size(722, 63);
             panel4.TabIndex = 5;
+            // 
+            // button4
+            // 
+            button4.BackColor = Color.Wheat;
+            button4.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.Location = new Point(567, 20);
+            button4.Name = "button4";
+            button4.Size = new Size(127, 32);
+            button4.TabIndex = 2;
+            button4.Text = "Tìm kiếm";
+            button4.UseVisualStyleBackColor = false;
             // 
             // textBox2
             // 
@@ -175,22 +188,21 @@ namespace baitaplonC_
             // panel1
             // 
             panel1.BackColor = SystemColors.InactiveCaption;
+            panel1.Controls.Add(dtgvHang);
             panel1.Controls.Add(dataGridView1);
             panel1.Location = new Point(165, 1);
             panel1.Name = "panel1";
             panel1.Size = new Size(722, 413);
             panel1.TabIndex = 6;
             // 
-            // button4
+            // dtgvHang
             // 
-            button4.BackColor = Color.Wheat;
-            button4.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button4.Location = new Point(567, 20);
-            button4.Name = "button4";
-            button4.Size = new Size(127, 32);
-            button4.TabIndex = 2;
-            button4.Text = "Tìm kiếm";
-            button4.UseVisualStyleBackColor = false;
+            dtgvHang.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dtgvHang.Location = new Point(-3, 137);
+            dtgvHang.Name = "dtgvHang";
+            dtgvHang.RowHeadersWidth = 51;
+            dtgvHang.Size = new Size(722, 93);
+            dtgvHang.TabIndex = 5;
             // 
             // Qlhhform
             // 
@@ -207,6 +219,7 @@ namespace baitaplonC_
             panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)dtgvHang).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -226,5 +239,6 @@ namespace baitaplonC_
         private TextBox textBox1;
         private TextBox textBox2;
         private Button button4;
+        private DataGridView dtgvHang;
     }
 }

@@ -15,6 +15,13 @@ namespace baitaplonC_
         public Qlhhform()
         {
             InitializeComponent();
+            TruyVanDL();
         }
+    }
+    public void TruyVanDL()
+    {
+        string query = "SELECT * FROM doituong";
+        DataProvider provider = new DataProvider();
+        DataGridView.DataSource = provider.ExecuteQuery(query);
     }
 }

@@ -36,3 +36,12 @@ D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.dangnhap.resources
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.gdchinh.resources
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.qlhhform.resources
+D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.AssemblyReference.cache
+D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\SQLConnection.dll
+D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplo.F07F75C1.Up2Date
