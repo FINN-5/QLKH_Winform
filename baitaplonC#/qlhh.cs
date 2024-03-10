@@ -17,21 +17,12 @@ namespace baitaplonC_
             InitializeComponent();
             TruyVanDL();
         }
+
         public void TruyVanDL()
         {
-            string query = "SELECT * FROM doituong";
+            string query = "select idhang as 'Mã hàng hóa', ten as 'Tên hàng hóa', loaihang as 'Phân loại' from hanghoa";
             dtgvHang.DataSource = DataProvider.Instance.ExecuteQuery(query);
         }
-
-
-        public bool ThemHang(string id, string ten, string loai)
-        {
-            string query = string.Format("insert into dbo.hanghoa values(N'{0}',N'{1}',N'{2}',N'',N'',N'')", id, ten, loai);
-            int result = DataProvider.Instance.ExecuteNonQuery(query);
-            return result > 0;
-        }
-
-
 
 
         private void dtgvHang_RowsAdded(object sender, DataGridViewRowsAddedEventArgs e)
@@ -47,7 +38,8 @@ namespace baitaplonC_
         private void button1_Click(object sender, EventArgs e)
         {
             ThemHang themHang = new ThemHang();
-            themHang.Show();
+            themHang.ShowDialog();
+            TruyVanDL();
         }
     }
 }

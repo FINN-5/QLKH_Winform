@@ -150,15 +150,17 @@ namespace baitaplonC_
             dtgvHang.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             dtgvHang.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dtgvHang.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+            dtgvHang.BackgroundColor = SystemColors.InactiveCaption;
             dtgvHang.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dtgvHang.Location = new Point(0, 3);
             dtgvHang.Name = "dtgvHang";
             dtgvHang.ReadOnly = true;
             dtgvHang.RowHeadersWidth = 51;
-            dtgvHang.Size = new Size(722, 54);
+            dtgvHang.Size = new Size(722, 211);
             dtgvHang.TabIndex = 5;
             dtgvHang.RowsAdded += dtgvHang_RowsAdded;
             dtgvHang.RowsRemoved += dtgvHang_RowsRemoved;
+            dtgvHang.BorderStyle = BorderStyle.None;
             // 
             // Qlhhform
             // 

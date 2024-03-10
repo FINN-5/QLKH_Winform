@@ -1,4 +1,4 @@
-create database QLKH
+﻿create database QLKH
 go
 use QLKH
 go
@@ -20,20 +20,28 @@ create table hanghoa
 	loaihang nvarchar(100),
 	gianhap nvarchar(50) default 0,
 	giaxuat nvarchar(50) default 0,
-	iddoituong nvarchar(50) default 0,
+	iddoituong nvarchar(50),
 	foreign key (iddoituong) references doituong(iddoituong),
 )
 go
 
-insert into dbo.hanghoa values(N'',N'',N'',N'',N'',N'')
-go
 
-select * from doituong
+
+
+select idhang as 'Mã hàng hóa', ten as 'Tên hàng hóa', loaihang as 'Phân loại' from hanghoa
 go
 
 DROP TABLE dbo.phieuxuat
 go
 
-DELETE FROM doituong
-WHERE ten = N'Duc Dep Trai'
+DELETE FROM hanghoa
+WHERE iddoituong = N'ad'
 go
+insert into dbo.doituong values(N'ad',N'admin',N'0999',N'HaNoi',0)
+go
+
+
+insert into dbo.hanghoa(idhang,ten,loaihang,iddoituong) values(N'1',N'2',N'3', N'ad')
+go
+
+DELETE FROM hanghoa;
