@@ -82,6 +82,7 @@
             button4.TabIndex = 4;
             button4.Text = "Quản Lý Tài Khoản";
             button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // qlhhbtn
             // 

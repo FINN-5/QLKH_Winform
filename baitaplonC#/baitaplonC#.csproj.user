@@ -7,10 +7,25 @@
     <Compile Update="Dangnhap.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="nhaphang.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Qlhh.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="QuanLyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="suanhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sua_QLTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ThemHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Them_QLTK.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

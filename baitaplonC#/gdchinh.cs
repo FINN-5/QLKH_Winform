@@ -6,5 +6,12 @@ namespace baitaplonC_
         {
             InitializeComponent();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            QuanLyTaiKhoan quanLyTaiKhoan=new QuanLyTaiKhoan();
+            quanLyTaiKhoan.ShowDialog();
+        }
     }
 }
