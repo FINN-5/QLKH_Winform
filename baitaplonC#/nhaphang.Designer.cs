@@ -70,7 +70,7 @@
             panel4.Controls.Add(textBox1);
             panel4.Location = new Point(150, 395);
             panel4.Name = "panel4";
-            panel4.Size = new Size(943, 211);
+            panel4.Size = new Size(943, 100);
             panel4.TabIndex = 8;
             panel4.Paint += panel4_Paint;
             // 
@@ -114,7 +114,7 @@
             panel3.Controls.Add(button1);
             panel3.Location = new Point(-40, -14);
             panel3.Name = "panel3";
-            panel3.Size = new Size(192, 627);
+            panel3.Size = new Size(192, 526);
             panel3.TabIndex = 7;
             // 
             // button5
@@ -299,7 +299,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1095, 598);
+            ClientSize = new Size(1095, 497);
             Controls.Add(panel4);
             Controls.Add(panel3);
             Controls.Add(panel1);

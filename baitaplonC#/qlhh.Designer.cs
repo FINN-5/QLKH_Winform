@@ -49,7 +49,7 @@ namespace baitaplonC_
             // 
             // panel4
             // 
-            panel4.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            panel4.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel4.AutoSize = true;
             panel4.BackColor = Color.SteelBlue;
             panel4.Controls.Add(button4);
@@ -62,6 +62,7 @@ namespace baitaplonC_
             // 
             // button4
             // 
+            button4.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             button4.BackColor = Color.Wheat;
             button4.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button4.Location = new Point(567, 20);
@@ -73,13 +74,15 @@ namespace baitaplonC_
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(196, 23);
+            textBox2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            textBox2.Location = new Point(201, 25);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(235, 27);
             textBox2.TabIndex = 1;
             // 
             // textBox1
             // 
+            textBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             textBox1.BackColor = Color.SteelBlue;
             textBox1.BorderStyle = BorderStyle.None;
             textBox1.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -92,7 +95,7 @@ namespace baitaplonC_
             // 
             // panel3
             // 
-            panel3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
+            panel3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel3.BackColor = Color.SteelBlue;
             panel3.Controls.Add(button3);
             panel3.Controls.Add(button2);
@@ -104,6 +107,7 @@ namespace baitaplonC_
             // 
             // button3
             // 
+            button3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             button3.BackColor = Color.Wheat;
             button3.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button3.Location = new Point(8, 111);
@@ -112,9 +116,11 @@ namespace baitaplonC_
             button3.TabIndex = 1;
             button3.Text = "Xóa";
             button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click;
             // 
             // button2
             // 
+            button2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             button2.BackColor = Color.Wheat;
             button2.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button2.Location = new Point(8, 57);
@@ -123,9 +129,11 @@ namespace baitaplonC_
             button2.TabIndex = 1;
             button2.Text = "Sửa";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // button1
             // 
+            button1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             button1.BackColor = Color.Wheat;
             button1.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.Location = new Point(8, 3);
@@ -138,6 +146,7 @@ namespace baitaplonC_
             // 
             // panel1
             // 
+            panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel1.BackColor = SystemColors.InactiveCaption;
             panel1.Controls.Add(dtgvHang);
             panel1.Location = new Point(165, 1);
@@ -151,16 +160,18 @@ namespace baitaplonC_
             dtgvHang.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dtgvHang.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
             dtgvHang.BackgroundColor = SystemColors.InactiveCaption;
+            dtgvHang.BorderStyle = BorderStyle.None;
             dtgvHang.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dtgvHang.Location = new Point(0, 3);
             dtgvHang.Name = "dtgvHang";
             dtgvHang.ReadOnly = true;
             dtgvHang.RowHeadersWidth = 51;
+            dtgvHang.SelectionMode = DataGridViewSelectionMode.CellSelect;
             dtgvHang.Size = new Size(722, 211);
             dtgvHang.TabIndex = 5;
+            dtgvHang.CellMouseEnter += dtgvHang_CellMouseEnter;
             dtgvHang.RowsAdded += dtgvHang_RowsAdded;
             dtgvHang.RowsRemoved += dtgvHang_RowsRemoved;
-            dtgvHang.BorderStyle = BorderStyle.None;
             // 
             // Qlhhform
             // 
@@ -172,6 +183,7 @@ namespace baitaplonC_
             Controls.Add(panel3);
             Name = "Qlhhform";
             Text = "Quản lý hàng hóa";
+            Load += Qlhhform_Load;
             panel4.ResumeLayout(false);
             panel4.PerformLayout();
             panel3.ResumeLayout(false);

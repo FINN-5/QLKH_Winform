@@ -26,7 +26,8 @@ create table hanghoa
 go
 
 
-
+update hanghoa set idhang=N'2', ten=N'dasua', loaihang=N'Ngol' where idhang=N'1'
+go
 
 select idhang as 'Mã hàng hóa', ten as 'Tên hàng hóa', loaihang as 'Phân loại' from hanghoa
 go
@@ -45,3 +46,5 @@ insert into dbo.hanghoa(idhang,ten,loaihang,iddoituong) values(N'1',N'2',N'3', N
 go
 
 DELETE FROM hanghoa;
+
+select * from hanghoa;

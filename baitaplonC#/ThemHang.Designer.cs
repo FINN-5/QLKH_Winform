@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
+            tbttMahang_them = new TextBox();
+            tbTenhang_them = new TextBox();
+            tbPhanloai_them = new TextBox();
             tbMahang = new TextBox();
             tbTenhang = new TextBox();
             cbbPhanloaiHang = new ComboBox();
@@ -38,47 +38,47 @@
             button2 = new Button();
             SuspendLayout();
             // 
-            // textBox1
+            // tbttMahang_them
             // 
-            textBox1.BackColor = Color.SteelBlue;
-            textBox1.BorderStyle = BorderStyle.None;
-            textBox1.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            textBox1.ForeColor = SystemColors.Window;
-            textBox1.Location = new Point(78, 47);
-            textBox1.Multiline = true;
-            textBox1.Name = "textBox1";
-            textBox1.ReadOnly = true;
-            textBox1.Size = new Size(128, 30);
-            textBox1.TabIndex = 0;
-            textBox1.Text = "Mã hàng hóa";
+            tbttMahang_them.BackColor = Color.SteelBlue;
+            tbttMahang_them.BorderStyle = BorderStyle.None;
+            tbttMahang_them.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            tbttMahang_them.ForeColor = SystemColors.Window;
+            tbttMahang_them.Location = new Point(78, 47);
+            tbttMahang_them.Multiline = true;
+            tbttMahang_them.Name = "tbttMahang_them";
+            tbttMahang_them.ReadOnly = true;
+            tbttMahang_them.Size = new Size(128, 30);
+            tbttMahang_them.TabIndex = 0;
+            tbttMahang_them.Text = "Mã hàng hóa";
             // 
-            // textBox2
+            // tbTenhang_them
             // 
-            textBox2.BackColor = Color.SteelBlue;
-            textBox2.BorderStyle = BorderStyle.None;
-            textBox2.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            textBox2.ForeColor = SystemColors.Window;
-            textBox2.Location = new Point(78, 101);
-            textBox2.Multiline = true;
-            textBox2.Name = "textBox2";
-            textBox2.ReadOnly = true;
-            textBox2.Size = new Size(128, 30);
-            textBox2.TabIndex = 1;
-            textBox2.Text = "Tên hàng hóa";
+            tbTenhang_them.BackColor = Color.SteelBlue;
+            tbTenhang_them.BorderStyle = BorderStyle.None;
+            tbTenhang_them.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            tbTenhang_them.ForeColor = SystemColors.Window;
+            tbTenhang_them.Location = new Point(78, 101);
+            tbTenhang_them.Multiline = true;
+            tbTenhang_them.Name = "tbTenhang_them";
+            tbTenhang_them.ReadOnly = true;
+            tbTenhang_them.Size = new Size(128, 30);
+            tbTenhang_them.TabIndex = 1;
+            tbTenhang_them.Text = "Tên hàng hóa";
             // 
-            // textBox3
+            // tbPhanloai_them
             // 
-            textBox3.BackColor = Color.SteelBlue;
-            textBox3.BorderStyle = BorderStyle.None;
-            textBox3.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            textBox3.ForeColor = SystemColors.Window;
-            textBox3.Location = new Point(78, 158);
-            textBox3.Multiline = true;
-            textBox3.Name = "textBox3";
-            textBox3.ReadOnly = true;
-            textBox3.Size = new Size(128, 30);
-            textBox3.TabIndex = 2;
-            textBox3.Text = "Phân loại";
+            tbPhanloai_them.BackColor = Color.SteelBlue;
+            tbPhanloai_them.BorderStyle = BorderStyle.None;
+            tbPhanloai_them.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            tbPhanloai_them.ForeColor = SystemColors.Window;
+            tbPhanloai_them.Location = new Point(78, 158);
+            tbPhanloai_them.Multiline = true;
+            tbPhanloai_them.Name = "tbPhanloai_them";
+            tbPhanloai_them.ReadOnly = true;
+            tbPhanloai_them.Size = new Size(128, 30);
+            tbPhanloai_them.TabIndex = 2;
+            tbPhanloai_them.Text = "Phân loại";
             // 
             // tbMahang
             // 
@@ -87,6 +87,7 @@
             tbMahang.Name = "tbMahang";
             tbMahang.Size = new Size(229, 30);
             tbMahang.TabIndex = 3;
+            tbMahang.KeyPress += tbMahang_KeyPress;
             // 
             // tbTenhang
             // 
@@ -95,6 +96,7 @@
             tbTenhang.Name = "tbTenhang";
             tbTenhang.Size = new Size(229, 30);
             tbTenhang.TabIndex = 4;
+            tbTenhang.KeyPress += tbTenhang_KeyPress;
             // 
             // cbbPhanloaiHang
             // 
@@ -130,6 +132,7 @@
             button2.TabIndex = 8;
             button2.Text = "Thoát";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // ThemHang
             // 
@@ -142,20 +145,21 @@
             Controls.Add(cbbPhanloaiHang);
             Controls.Add(tbTenhang);
             Controls.Add(tbMahang);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(tbPhanloai_them);
+            Controls.Add(tbTenhang_them);
+            Controls.Add(tbttMahang_them);
             Name = "ThemHang";
-            Text = "ThemHang";
+            Text = "Thêm hàng hóa";
+            Load += ThemHang_Load;
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
+        private TextBox tbttMahang_them;
+        private TextBox tbTenhang_them;
+        private TextBox tbPhanloai_them;
         internal TextBox tbMahang;
         internal TextBox tbTenhang;
         internal ComboBox cbbPhanloaiHang;

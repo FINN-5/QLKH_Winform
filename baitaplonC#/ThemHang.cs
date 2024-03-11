@@ -39,5 +39,40 @@ namespace baitaplonC_
             }
             this.Close();
         }
+
+        private void tbMahang_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                tbTenhang.Focus();
+                e.Handled = true;
+            }
+        }
+
+        private void tbTenhang_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                cbbPhanloaiHang.Focus();
+                e.Handled = true;
+            }
+        }
+
+        private void ThemHang_Load(object sender, EventArgs e)
+        {
+            foreach (Control control in Controls)
+            {
+                if (control is System.Windows.Forms.TextBox || control is System.Windows.Forms.Button || control is System.Windows.Forms.ComboBox)
+                {
+                    control.TabStop = false;
+                }
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
