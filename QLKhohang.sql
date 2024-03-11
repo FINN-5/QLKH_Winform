@@ -45,6 +45,10 @@ go
 insert into dbo.hanghoa(idhang,ten,loaihang,iddoituong) values(N'1',N'2',N'3', N'ad')
 go
 
-DELETE FROM hanghoa;
+DELETE FROM hanghoa where idhang = N'1';
+DELETE FROM hanghoa where idhang = N'{0}'
 
-select * from hanghoa;
+select * from doituong;
+
+ALTER TABLE doituong
+ADD userpass nvarchar(50);
