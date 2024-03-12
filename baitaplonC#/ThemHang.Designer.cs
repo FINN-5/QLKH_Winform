@@ -103,7 +103,7 @@
             cbbPhanloaiHang.BackColor = SystemColors.ScrollBar;
             cbbPhanloaiHang.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             cbbPhanloaiHang.FormattingEnabled = true;
-            cbbPhanloaiHang.Items.AddRange(new object[] { "Hàng đông lạnh", "Hàng tươi sống" });
+            cbbPhanloaiHang.Items.AddRange(new object[] { "Hàng đông lạnh", "Hàng tươi sống", "Khác" });
             cbbPhanloaiHang.Location = new Point(277, 158);
             cbbPhanloaiHang.Name = "cbbPhanloaiHang";
             cbbPhanloaiHang.Size = new Size(229, 30);

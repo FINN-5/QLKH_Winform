@@ -6,6 +6,7 @@ go
 create table doituong
 (
 	iddoituong nvarchar(50) not null primary key,
+	userpass nvarchar(50)
 	ten nvarchar(50),
 	dienthoai nvarchar(50),
 	diachi nvarchar(100),
@@ -48,7 +49,12 @@ go
 DELETE FROM hanghoa where idhang = N'1';
 DELETE FROM hanghoa where idhang = N'{0}'
 
-select * from doituong;
+select * from hanghoa;
+go
 
 ALTER TABLE doituong
 ADD userpass nvarchar(50);
+go
+
+select idhang as 'Mã hàng hóa', ten as 'Tên hàng hóa', loaihang as 'Phân loại' from hanghoa where ten = N'2'
+go

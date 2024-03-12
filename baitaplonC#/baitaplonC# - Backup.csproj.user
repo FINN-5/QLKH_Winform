@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup />
   <ItemGroup>
-    <Compile Update="Dangnhap.cs">
+    <Compile Update="Gdchinh.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="gdchinh.cs">
+    <Compile Update="Dangnhap.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="nhaphang.cs">
@@ -14,18 +13,22 @@
     <Compile Update="Qlhh.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="QuanLyTaiKhoan.cs">
-      <SubType>Form</SubType>
-    </Compile>
+<<<<<<< HEAD
     <Compile Update="SuaHang.cs">
+=======
+    <Compile Update="QuanLyTaiKhoan.cs">
+>>>>>>> d01ae0d0489790ad3f6cc6d95771e4d5ac74462a
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="suanhap.cs">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
+=======
     <Compile Update="Sua_QLTK.cs">
       <SubType>Form</SubType>
     </Compile>
+>>>>>>> d01ae0d0489790ad3f6cc6d95771e4d5ac74462a
     <Compile Update="ThemHang.cs">
       <SubType>Form</SubType>
     </Compile>

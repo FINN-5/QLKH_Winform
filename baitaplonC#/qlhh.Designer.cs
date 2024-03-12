@@ -32,7 +32,7 @@ namespace baitaplonC_
         {
             Panel panel4;
             button4 = new Button();
-            textBox2 = new TextBox();
+            tbTimkiem = new TextBox();
             textBox1 = new TextBox();
             panel3 = new Panel();
             button3 = new Button();
@@ -53,7 +53,7 @@ namespace baitaplonC_
             panel4.AutoSize = true;
             panel4.BackColor = Color.SteelBlue;
             panel4.Controls.Add(button4);
-            panel4.Controls.Add(textBox2);
+            panel4.Controls.Add(tbTimkiem);
             panel4.Controls.Add(textBox1);
             panel4.Location = new Point(165, 410);
             panel4.Name = "panel4";
@@ -71,14 +71,17 @@ namespace baitaplonC_
             button4.TabIndex = 2;
             button4.Text = "Tìm kiếm";
             button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
-            // textBox2
+            // tbTimkiem
             // 
-            textBox2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            textBox2.Location = new Point(201, 25);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(235, 27);
-            textBox2.TabIndex = 1;
+            tbTimkiem.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            tbTimkiem.Location = new Point(201, 25);
+            tbTimkiem.Multiline = true;
+            tbTimkiem.Name = "tbTimkiem";
+            tbTimkiem.Size = new Size(235, 27);
+            tbTimkiem.TabIndex = 1;
+            tbTimkiem.KeyPress += tbTimkiem_KeyPress;
             // 
             // textBox1
             // 
@@ -200,7 +203,7 @@ namespace baitaplonC_
         private Button button1;
         private Panel panel1;
         private TextBox textBox1;
-        private TextBox textBox2;
+        private TextBox tbTimkiem;
         private Button button4;
         private DataGridView dtgvHang;
     }

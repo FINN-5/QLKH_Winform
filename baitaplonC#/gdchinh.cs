@@ -7,11 +7,16 @@ namespace baitaplonC_
             InitializeComponent();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void btnQltk_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            QuanLyTaiKhoan quanLyTaiKhoan=new QuanLyTaiKhoan();
-            quanLyTaiKhoan.ShowDialog();
+            QuanLyTaiKhoan qltk = new QuanLyTaiKhoan();
+            qltk.ShowDialog();
+        }
+
+        private void btnQlhh_Click(object sender, EventArgs e)
+        {
+            Qlhhform qlhh = new Qlhhform();
+            qlhh.ShowDialog();
         }
     }
 }

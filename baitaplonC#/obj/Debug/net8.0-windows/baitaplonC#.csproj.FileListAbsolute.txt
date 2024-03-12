@@ -49,3 +49,6 @@ D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.ThemHang.resourc
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.nhaphang.resources
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.suanhap.resources
 D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.SuaHang.resources
+D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.QuanLyTaiKhoan.resources
+D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Sua_QLTK.resources
+D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Them_QLTK.resources

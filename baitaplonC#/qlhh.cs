@@ -61,7 +61,6 @@ namespace baitaplonC_
         {
             if (dtgvHang.SelectedCells.Count > 0)
             {
-                // Lấy ô được chọn
                 DataGridViewCell cell = dtgvHang.SelectedCells[0];
                 if (cell.Value != null)
                 {
@@ -93,6 +92,26 @@ namespace baitaplonC_
             {
                 // Không xóa dữ liệu
                 return;
+            }
+        }
+        public void FuncTimkiemHang(string tenhang)
+        {
+            string query = string.Format("select idhang as 'Mã hàng hóa', ten as 'Tên hàng hóa', loaihang as 'Phân loại' from hanghoa where ten LIKE N'%{0}%'", tenhang);
+            dtgvHang.DataSource = DataProvider.Instance.ExecuteQuery(query);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string query = tbTimkiem.Text;
+            FuncTimkiemHang(query);
+        }
+
+        private void tbTimkiem_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                button4.Focus();
+                e.Handled = true;
             }
         }
     }

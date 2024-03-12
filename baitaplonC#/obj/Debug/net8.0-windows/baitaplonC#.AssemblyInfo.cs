@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("baitaplonC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ff0906a4468d47986c128aa67b0281c53d56ab7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6047be421f9ef3bb446bcdd1ee00ce6d7daf10e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("baitaplonC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("baitaplonC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
