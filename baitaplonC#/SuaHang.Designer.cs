@@ -89,6 +89,7 @@
             tbMahang_sua.Name = "tbMahang_sua";
             tbMahang_sua.Size = new Size(229, 30);
             tbMahang_sua.TabIndex = 3;
+            tbMahang_sua.TextChanged += tbMahang_sua_TextChanged;
             tbMahang_sua.KeyPress += tbMahang_sua_KeyPress;
             // 
             // tbTenhang_sua

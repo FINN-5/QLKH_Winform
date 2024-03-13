@@ -82,5 +82,10 @@ namespace baitaplonC_
         {
             this.Close();
         }
+
+        private void tbMahang_sua_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
