@@ -1,62 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\Code_git\\baitaplonC#\\",
+  "WorkspaceRootPath": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:gdchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\qlhh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:qlhh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|d:\\c#\\code_git\\baitaplonc#\\themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:gdchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:gdchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\suahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\themhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|d:\\code c#\\clonebtl\\qlkh_winform\\baitaplonc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\gdchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:gdchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\nhaphang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:nhaphang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\nhaphang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:nhaphang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:gdchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\suahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\qlhh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:qlhh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\themhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:gdchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,28 +82,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\Program.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\Program.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T16:17:28.842Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Qlhh.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\Qlhh.cs",
+              "DocumentIndex": 13,
+              "Title": "qlhh.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\Qlhh.cs",
               "RelativeDocumentMoniker": "Qlhh.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\Qlhh.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\Qlhh.cs",
               "RelativeToolTip": "Qlhh.cs",
               "ViewState": "AQIAAGEAAAAAAAAAAAAEwHAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,11 +114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "SuaHang.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\SuaHang.cs",
               "RelativeDocumentMoniker": "SuaHang.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\SuaHang.cs",
               "RelativeToolTip": "SuaHang.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,24 +131,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "NhapHang1.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\NhapHang1.cs",
+              "RelativeDocumentMoniker": "NhapHang1.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\NhapHang1.cs",
+              "RelativeToolTip": "NhapHang1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:42:00.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhapHang1.cs [Design]",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\NhapHang1.cs",
+              "RelativeDocumentMoniker": "NhapHang1.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\NhapHang1.cs [Design]",
+              "RelativeToolTip": "NhapHang1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:41:23.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dangnhap.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\dangnhap.cs",
+              "RelativeDocumentMoniker": "dangnhap.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\dangnhap.cs*",
+              "RelativeToolTip": "dangnhap.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:25:32.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\dangnhap.cs",
+              "RelativeDocumentMoniker": "dangnhap.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\dangnhap.cs [Design]*",
+              "RelativeToolTip": "dangnhap.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:25:25.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "gdchinh.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.cs",
               "RelativeDocumentMoniker": "gdchinh.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.cs",
               "RelativeToolTip": "gdchinh.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAIAxwBIAAAAeAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T16:20:47.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "gdchinh.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.cs",
               "RelativeDocumentMoniker": "gdchinh.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs [Design]",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.cs [Design]",
               "RelativeToolTip": "gdchinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T16:10:43.58Z",
@@ -139,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "qlhh.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\qlhh.Designer.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\qlhh.Designer.cs",
               "RelativeDocumentMoniker": "qlhh.Designer.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\qlhh.Designer.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\qlhh.Designer.cs",
               "RelativeToolTip": "qlhh.Designer.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,36 +217,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ThemHang.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\ThemHang.cs",
               "RelativeDocumentMoniker": "ThemHang.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\ThemHang.cs",
               "RelativeToolTip": "ThemHang.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAnwC0AAAAMAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:12:37.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T08:12:37.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "SuaHang.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.Designer.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\SuaHang.Designer.cs",
               "RelativeDocumentMoniker": "SuaHang.Designer.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.Designer.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\SuaHang.Designer.cs",
               "RelativeToolTip": "SuaHang.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T08:04:10.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Qlhh.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\Qlhh.cs",
+              "DocumentIndex": 0,
+              "Title": "qlhh.cs [Design]",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\Qlhh.cs",
               "RelativeDocumentMoniker": "Qlhh.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\Qlhh.cs [Design]",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\Qlhh.cs [Design]",
               "RelativeToolTip": "Qlhh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T01:30:40.715Z",
@@ -189,36 +253,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ThemHang.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\ThemHang.cs",
               "RelativeDocumentMoniker": "ThemHang.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.cs [Design]",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\ThemHang.cs [Design]",
               "RelativeToolTip": "ThemHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T16:03:58.99Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-08T16:03:58.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "ThemHang.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.Designer.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\ThemHang.Designer.cs",
               "RelativeDocumentMoniker": "ThemHang.Designer.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.Designer.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\ThemHang.Designer.cs",
               "RelativeToolTip": "ThemHang.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:02:36.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T08:02:36.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "gdchinh.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.Designer.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.Designer.cs",
               "RelativeDocumentMoniker": "gdchinh.Designer.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.Designer.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\gdchinh.Designer.cs",
               "RelativeToolTip": "gdchinh.Designer.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,24 +289,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "SuaHang.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\SuaHang.cs",
               "RelativeDocumentMoniker": "SuaHang.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.cs [Design]",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\SuaHang.cs [Design]",
               "RelativeToolTip": "SuaHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T07:55:48.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "DataProvider.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\DataProvider.cs",
+              "DocumentMoniker": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\DataProvider.cs",
               "RelativeDocumentMoniker": "DataProvider.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\DataProvider.cs",
+              "ToolTip": "D:\\CODE C#\\cloneBTL\\QLKH_Winform\\baitaplonC#\\DataProvider.cs",
               "RelativeToolTip": "DataProvider.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswA0AAAAkAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvw8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T16:25:44.334Z"
             }

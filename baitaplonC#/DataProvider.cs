@@ -26,7 +26,7 @@ namespace baitaplonC_
         private DataProvider() { }
 
 
-        private string connectionStr = "Data Source=.\\SQLEXPRESS;Initial Catalog=QLKH;Integrated Security=True;Encrypt=False";
+        private string connectionStr = "Data Source=LAPTOP-IB5C4LRA\\MAY1;Initial Catalog=QLKH3;Integrated Security=True;Encrypt=False";
         public DataTable ExecuteQuery(string query)
         {
             SqlConnection connection = new SqlConnection(connectionStr);
