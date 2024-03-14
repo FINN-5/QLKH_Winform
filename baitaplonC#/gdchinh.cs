@@ -18,5 +18,11 @@ namespace baitaplonC_
             Qlhhform qlhh = new Qlhhform();
             qlhh.ShowDialog();
         }
+
+        private void btnQlgianhap_Click(object sender, EventArgs e)
+        {
+            NhapHang1 nhaphang1 = new NhapHang1();
+            nhaphang1.ShowDialog();
+        }
     }
 }

@@ -35,7 +35,6 @@
             btnQltk = new Button();
             btnQlhh = new Button();
             btnQlgianhap = new Button();
-            btnQlgiaxuat = new Button();
             SuspendLayout();
             // 
             // btnDmk
@@ -104,19 +103,9 @@
             btnQlgianhap.Name = "btnQlgianhap";
             btnQlgianhap.Size = new Size(312, 57);
             btnQlgianhap.TabIndex = 6;
-            btnQlgianhap.Text = "Quản Lý Giá Nhập";
+            btnQlgianhap.Text = "Quản Lý Giá Nhập, Giá Xuất";
             btnQlgianhap.UseVisualStyleBackColor = false;
-            // 
-            // btnQlgiaxuat
-            // 
-            btnQlgiaxuat.BackColor = Color.Wheat;
-            btnQlgiaxuat.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnQlgiaxuat.Location = new Point(39, 542);
-            btnQlgiaxuat.Name = "btnQlgiaxuat";
-            btnQlgiaxuat.Size = new Size(312, 57);
-            btnQlgiaxuat.TabIndex = 7;
-            btnQlgiaxuat.Text = "Quản Lý Giá Xuất";
-            btnQlgiaxuat.UseVisualStyleBackColor = false;
+            btnQlgianhap.Click += btnQlgianhap_Click;
             // 
             // Gdchinh
             // 
@@ -124,7 +113,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1346, 760);
-            Controls.Add(btnQlgiaxuat);
             Controls.Add(btnQlgianhap);
             Controls.Add(btnQlhh);
             Controls.Add(btnQltk);
@@ -144,6 +132,5 @@
         private Button btnQltk;
         private Button btnQlhh;
         private Button btnQlgianhap;
-        private Button btnQlgiaxuat;
     }
 }
