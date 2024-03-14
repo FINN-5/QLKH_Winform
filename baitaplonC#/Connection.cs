@@ -11,7 +11,7 @@ namespace baitaplonC_
 {
     internal class Connection
     {
-        private static string stringConnection = @"Data Source=LAPTOP-IB5C4LRA\MAY1;Initial Catalog=QLKH2;Integrated Security=True;Encrypt=False";
+        private static string stringConnection = @"Data Source=LAPTOP-IB5C4LRA\MAY1;Initial Catalog=QLKH3;Integrated Security=True;Encrypt=False";
         public static SqlConnection GetSqlConnection()
         {
             return new SqlConnection(stringConnection);
