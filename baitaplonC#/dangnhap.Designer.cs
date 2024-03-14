@@ -50,6 +50,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(337, 27);
             textBox2.TabIndex = 1;
+            textBox2.UseSystemPasswordChar = true;
             // 
             // label1
             // 
@@ -100,6 +101,7 @@
             checkBox1.TabIndex = 6;
             checkBox1.Text = "Hiện Mật Khẩu";
             checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
             // Dangnhap
             // 

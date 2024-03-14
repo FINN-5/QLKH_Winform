@@ -40,7 +40,7 @@
             // 
             btnDangxuat.BackColor = Color.FromArgb(255, 128, 0);
             btnDangxuat.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnDangxuat.Location = new Point(969, 75);
+            btnDangxuat.Location = new Point(1012, 51);
             btnDangxuat.Name = "btnDangxuat";
             btnDangxuat.Size = new Size(173, 63);
             btnDangxuat.TabIndex = 2;
@@ -51,7 +51,7 @@
             // 
             btnTtcanhan.BackColor = Color.Wheat;
             btnTtcanhan.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnTtcanhan.Location = new Point(130, 269);
+            btnTtcanhan.Location = new Point(82, 156);
             btnTtcanhan.Name = "btnTtcanhan";
             btnTtcanhan.Size = new Size(312, 57);
             btnTtcanhan.TabIndex = 3;
@@ -62,7 +62,7 @@
             // 
             btnQltk.BackColor = Color.Wheat;
             btnQltk.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnQltk.Location = new Point(130, 350);
+            btnQltk.Location = new Point(82, 260);
             btnQltk.Name = "btnQltk";
             btnQltk.Size = new Size(312, 57);
             btnQltk.TabIndex = 4;
@@ -74,7 +74,7 @@
             // 
             btnQlhh.BackColor = Color.Wheat;
             btnQlhh.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnQlhh.Location = new Point(130, 430);
+            btnQlhh.Location = new Point(82, 380);
             btnQlhh.Name = "btnQlhh";
             btnQlhh.Size = new Size(312, 57);
             btnQlhh.TabIndex = 5;
@@ -86,7 +86,7 @@
             // 
             btnQlgianhap.BackColor = Color.Wheat;
             btnQlgianhap.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnQlgianhap.Location = new Point(130, 515);
+            btnQlgianhap.Location = new Point(82, 492);
             btnQlgianhap.Name = "btnQlgianhap";
             btnQlgianhap.Size = new Size(312, 57);
             btnQlgianhap.TabIndex = 6;

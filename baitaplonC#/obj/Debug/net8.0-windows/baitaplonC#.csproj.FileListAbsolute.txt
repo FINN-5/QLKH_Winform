@@ -34,3 +34,40 @@ D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\refint\baitaplonC#.
 D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.pdb
 D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.genruntimeconfig.cache
 D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.exe
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.deps.json
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.runtimeconfig.json
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.pdb
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\SQLConnection.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.AssemblyReference.cache
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Dangnhap.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Gdchinh.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.NhapHang1.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Properties.Resources.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Qlhhform.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.QuanLyTaiKhoan.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.SuaHang.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.suanhap.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Sua_QLTK.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.ThemHang.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Them_QLTK.resources
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.GenerateResource.cache
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfoInputs.cache
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfo.cs
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.CoreCompileInputs.cache
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.sourcelink.json
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplo.F07F75C1.Up2Date
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\refint\baitaplonC#.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.pdb
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.genruntimeconfig.cache
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
+D:\vs studio\chuan\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.In_thongtin.resources
