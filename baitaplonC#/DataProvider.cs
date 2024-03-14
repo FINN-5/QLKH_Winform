@@ -25,13 +25,7 @@ namespace baitaplonC_
 
         private DataProvider() { }
 
-
-<<<<<<< HEAD
-        private string connectionStr = "Data Source=23TH8\\MSSQLSERVER3;Initial Catalog=QLKH;Integrated Security=True;Encrypt=False";
-            //"Data Source=.\\SQLEXPRESS;Initial Catalog=QLKH;Integrated Security=True;Encrypt=False";
-=======
         private string connectionStr = "Data Source=.\\sqlexpress;Initial Catalog=QLKH;Integrated Security=True;Encrypt=False";
->>>>>>> 8ce98215e5edf7d6fa303eea8799a752ce8b96a3
         public DataTable ExecuteQuery(string query)
         {
             SqlConnection connection = new SqlConnection(connectionStr);
