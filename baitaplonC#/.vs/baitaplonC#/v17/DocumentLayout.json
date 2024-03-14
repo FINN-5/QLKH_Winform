@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\C#\\Code_git\\baitaplonC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\suahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|d:\\c#\\code_git\\baitaplonc#\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,11 +31,7 @@
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:qlhh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:qlhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|d:\\c#\\code_git\\baitaplonc#\\themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -35,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\suahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\themhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:themhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\gdchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:suahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|D:\\C#\\Code_git\\baitaplonC#\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB516CC-6946-45D8-BD60-17697829FE9A}|baitaplonC#.csproj|solutionrelative:dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,24 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T16:17:28.842Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Qlhh.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\Qlhh.cs",
               "RelativeDocumentMoniker": "Qlhh.cs",
@@ -97,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SuaHang.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.cs",
               "RelativeDocumentMoniker": "SuaHang.cs",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "gdchinh.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs",
               "RelativeDocumentMoniker": "gdchinh.cs",
@@ -122,24 +122,22 @@
               "RelativeToolTip": "gdchinh.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAIAxwBIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T16:20:47.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:20:47.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "gdchinh.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs",
               "RelativeDocumentMoniker": "gdchinh.cs",
               "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.cs [Design]",
               "RelativeToolTip": "gdchinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T16:10:43.58Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-12T16:10:43.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "qlhh.Designer.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\qlhh.Designer.cs",
               "RelativeDocumentMoniker": "qlhh.Designer.cs",
@@ -152,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ThemHang.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.cs",
               "RelativeDocumentMoniker": "ThemHang.cs",
@@ -160,12 +158,11 @@
               "RelativeToolTip": "ThemHang.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAnwC0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:12:37.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T08:12:37.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "SuaHang.Designer.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.Designer.cs",
               "RelativeDocumentMoniker": "SuaHang.Designer.cs",
@@ -173,11 +170,12 @@
               "RelativeToolTip": "SuaHang.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:04:10.771Z"
+              "WhenOpened": "2024-03-11T08:04:10.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Qlhh.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\Qlhh.cs",
               "RelativeDocumentMoniker": "Qlhh.cs",
@@ -189,19 +187,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ThemHang.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.cs",
               "RelativeDocumentMoniker": "ThemHang.cs",
               "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.cs [Design]",
               "RelativeToolTip": "ThemHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T16:03:58.99Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-08T16:03:58.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataProvider.cs",
+              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\DataProvider.cs",
+              "RelativeToolTip": "DataProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:25:44.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ThemHang.Designer.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\ThemHang.Designer.cs",
               "RelativeDocumentMoniker": "ThemHang.Designer.cs",
@@ -209,12 +219,11 @@
               "RelativeToolTip": "ThemHang.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:02:36.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T08:02:36.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "gdchinh.Designer.cs",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\gdchinh.Designer.cs",
               "RelativeDocumentMoniker": "gdchinh.Designer.cs",
@@ -222,12 +231,11 @@
               "RelativeToolTip": "gdchinh.Designer.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T16:10:54.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:10:54.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SuaHang.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\SuaHang.cs",
               "RelativeDocumentMoniker": "SuaHang.cs",
@@ -235,18 +243,6 @@
               "RelativeToolTip": "SuaHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T07:55:48.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DataProvider.cs",
-              "DocumentMoniker": "D:\\C#\\Code_git\\baitaplonC#\\DataProvider.cs",
-              "RelativeDocumentMoniker": "DataProvider.cs",
-              "ToolTip": "D:\\C#\\Code_git\\baitaplonC#\\DataProvider.cs",
-              "RelativeToolTip": "DataProvider.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T16:25:44.334Z"
             }
           ]
         }
