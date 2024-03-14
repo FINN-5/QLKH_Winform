@@ -12,6 +12,7 @@ namespace baitaplonC_
     internal class Connection
     {
         private static string stringConnection = "Data Source=.\\sqlexpress;Initial Catalog=QLKH;Integrated Security=True;Encrypt=False";
+
         public static SqlConnection GetSqlConnection()
         {
             return new SqlConnection(stringConnection);

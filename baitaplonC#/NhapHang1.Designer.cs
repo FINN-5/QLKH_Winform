@@ -138,8 +138,6 @@
             label6.Size = new Size(397, 23);
             label6.TabIndex = 10;
             label6.Text = "Bạn Chỉ Có Thể Sửa Giá Nhập Hoặc Giá Xuất";
-            label6.TextChanged += fdg;
-            label6.Click += label6_Click;
             // 
             // textBox5
             // 
@@ -188,7 +186,6 @@
             textBox1.Size = new Size(138, 27);
             textBox1.TabIndex = 5;
             textBox1.TextAlign = HorizontalAlignment.Center;
-            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // label5
             // 
@@ -199,7 +196,6 @@
             label5.Size = new Size(86, 23);
             label5.TabIndex = 4;
             label5.Text = "Giá Xuất";
-            label5.Click += label5_Click;
             // 
             // label4
             // 
@@ -491,8 +487,6 @@
             dataGridView4.Size = new Size(652, 414);
             dataGridView4.TabIndex = 14;
             dataGridView4.CellClick += dataGridView4_CellClick;
-            dataGridView4.CellContentClick += dataGridView4_CellContentClick;
-            dataGridView4.Click += dataGridView4_Click;
             // 
             // NhapHang1
             // 
@@ -504,6 +498,7 @@
             Controls.Add(panel5);
             Controls.Add(panel4);
             Name = "NhapHang1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "NhapHang1";
             Load += NhapHang1_Load;
             panel1.ResumeLayout(false);

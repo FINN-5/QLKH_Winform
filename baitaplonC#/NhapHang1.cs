@@ -58,25 +58,6 @@ namespace baitaplonC_
             }
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView4_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void dataGridView4_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void dataGridView4_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -91,16 +72,6 @@ namespace baitaplonC_
                 textBox4.Text = selectedRow.Cells[3].Value.ToString();
                 textBox5.Text = selectedRow.Cells[4].Value.ToString();
             }
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void fdg(object sender, EventArgs e)
-        {
-
         }
 
         private void button4_Click(object sender, EventArgs e)

@@ -78,6 +78,7 @@
             button1.TabIndex = 4;
             button1.Text = "✅ Đăng Nhập";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -87,6 +88,7 @@
             button2.TabIndex = 5;
             button2.Text = "📤 Thoát";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // checkBox1
             // 
@@ -99,7 +101,7 @@
             checkBox1.Text = "Hiện Mật Khẩu";
             checkBox1.UseVisualStyleBackColor = true;
             // 
-            // Form2
+            // Dangnhap
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -112,7 +114,7 @@
             Controls.Add(label1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
-            Name = "Form2";
+            Name = "Dangnhap";
             Text = "Đăng Nhập";
             ResumeLayout(false);
             PerformLayout();

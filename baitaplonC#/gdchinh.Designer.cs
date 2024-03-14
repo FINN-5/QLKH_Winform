@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Gdchinh));
-            btnDmk = new Button();
             btnDangxuat = new Button();
             btnTtcanhan = new Button();
             btnQltk = new Button();
@@ -37,23 +36,11 @@
             btnQlgianhap = new Button();
             SuspendLayout();
             // 
-            // btnDmk
-            // 
-            btnDmk.BackColor = Color.FromArgb(255, 128, 0);
-            btnDmk.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnDmk.Location = new Point(204, 34);
-            btnDmk.Name = "btnDmk";
-            btnDmk.Size = new Size(173, 63);
-            btnDmk.TabIndex = 0;
-            btnDmk.Text = "Đổi Mật Khẩu";
-            btnDmk.UseMnemonic = false;
-            btnDmk.UseVisualStyleBackColor = false;
-            // 
             // btnDangxuat
             // 
             btnDangxuat.BackColor = Color.FromArgb(255, 128, 0);
             btnDangxuat.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnDangxuat.Location = new Point(204, 127);
+            btnDangxuat.Location = new Point(969, 75);
             btnDangxuat.Name = "btnDangxuat";
             btnDangxuat.Size = new Size(173, 63);
             btnDangxuat.TabIndex = 2;
@@ -64,7 +51,7 @@
             // 
             btnTtcanhan.BackColor = Color.Wheat;
             btnTtcanhan.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnTtcanhan.Location = new Point(39, 220);
+            btnTtcanhan.Location = new Point(130, 269);
             btnTtcanhan.Name = "btnTtcanhan";
             btnTtcanhan.Size = new Size(312, 57);
             btnTtcanhan.TabIndex = 3;
@@ -75,7 +62,7 @@
             // 
             btnQltk.BackColor = Color.Wheat;
             btnQltk.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnQltk.Location = new Point(39, 304);
+            btnQltk.Location = new Point(130, 350);
             btnQltk.Name = "btnQltk";
             btnQltk.Size = new Size(312, 57);
             btnQltk.TabIndex = 4;
@@ -87,7 +74,7 @@
             // 
             btnQlhh.BackColor = Color.Wheat;
             btnQlhh.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnQlhh.Location = new Point(39, 380);
+            btnQlhh.Location = new Point(130, 430);
             btnQlhh.Name = "btnQlhh";
             btnQlhh.Size = new Size(312, 57);
             btnQlhh.TabIndex = 5;
@@ -99,7 +86,7 @@
             // 
             btnQlgianhap.BackColor = Color.Wheat;
             btnQlgianhap.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnQlgianhap.Location = new Point(39, 461);
+            btnQlgianhap.Location = new Point(130, 515);
             btnQlgianhap.Name = "btnQlgianhap";
             btnQlgianhap.Size = new Size(312, 57);
             btnQlgianhap.TabIndex = 6;
@@ -112,21 +99,20 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(1346, 760);
+            BackgroundImageLayout = ImageLayout.Center;
+            ClientSize = new Size(1293, 730);
             Controls.Add(btnQlgianhap);
             Controls.Add(btnQlhh);
             Controls.Add(btnQltk);
             Controls.Add(btnTtcanhan);
             Controls.Add(btnDangxuat);
-            Controls.Add(btnDmk);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Gdchinh";
             Text = "Phần Mềm Quản Lý Kho Hàng";
             ResumeLayout(false);
         }
 
         #endregion
-
-        private Button btnDmk;
         private Button btnDangxuat;
         private Button btnTtcanhan;
         private Button btnQltk;

@@ -185,6 +185,7 @@ namespace baitaplonC_
             Controls.Add(panel4);
             Controls.Add(panel3);
             Name = "Qlhhform";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Quản lý hàng hóa";
             Load += Qlhhform_Load;
             panel4.ResumeLayout(false);
