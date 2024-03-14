@@ -1,129 +1,36 @@
-D:\C#\Code\baitaplonC#\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.exe
-D:\C#\Code\baitaplonC#\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.deps.json
-D:\C#\Code\baitaplonC#\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.runtimeconfig.json
-D:\C#\Code\baitaplonC#\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.dll
-D:\C#\Code\baitaplonC#\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.pdb
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Form1.resources
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Form2.resources
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Properties.Resources.resources
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.GenerateResource.cache
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.GeneratedMSBuildEditorConfig.editorconfig
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfoInputs.cache
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfo.cs
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.CoreCompileInputs.cache
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.dll
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\refint\baitaplonC#.dll
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.pdb
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.genruntimeconfig.cache
-D:\C#\Code\baitaplonC#\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.exe
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.deps.json
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.runtimeconfig.json
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.dll
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.pdb
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Properties.Resources.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.GenerateResource.cache
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.GeneratedMSBuildEditorConfig.editorconfig
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfoInputs.cache
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfo.cs
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.CoreCompileInputs.cache
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.sourcelink.json
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.dll
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\refint\baitaplonC#.dll
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.pdb
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.genruntimeconfig.cache
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.dangnhap.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.gdchinh.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.qlhhform.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.AssemblyReference.cache
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\SQLConnection.dll
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\C#\Code_git\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplo.F07F75C1.Up2Date
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.ThemHang.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.suanhap.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.SuaHang.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.QuanLyTaiKhoan.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Sua_QLTK.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Them_QLTK.resources
-<<<<<<< HEAD
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.exe
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.deps.json
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.runtimeconfig.json
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.pdb
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\SQLConnection.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.AssemblyReference.cache
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Dangnhap.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Gdchinh.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.nhaphang.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Properties.Resources.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Qlhhform.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.QuanLyTaiKhoan.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.SuaHang.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.suanhap.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Sua_QLTK.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.ThemHang.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Them_QLTK.resources
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.GenerateResource.cache
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfoInputs.cache
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfo.cs
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.sourcelink.json
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.CopyComplete
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\refint\baitaplonC#.dll
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.pdb
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.genruntimeconfig.cache
-C:\Users\ASUS\source\repos\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
-=======
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.exe
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.deps.json
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.runtimeconfig.json
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.pdb
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\SQLConnection.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.AssemblyReference.cache
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Dangnhap.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Gdchinh.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Properties.Resources.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Qlhhform.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.QuanLyTaiKhoan.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.SuaHang.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.suanhap.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Sua_QLTK.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.ThemHang.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Them_QLTK.resources
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.GenerateResource.cache
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.GeneratedMSBuildEditorConfig.editorconfig
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfoInputs.cache
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfo.cs
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.CoreCompileInputs.cache
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.sourcelink.json
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplo.F07F75C1.Up2Date
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\refint\baitaplonC#.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.pdb
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.genruntimeconfig.cache
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
-D:\CODE C#\cloneBTL\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.NhapHang1.resources
-D:\C#\Code_git\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.NhapHang1.resources
->>>>>>> 8ce98215e5edf7d6fa303eea8799a752ce8b96a3
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.exe
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.deps.json
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.runtimeconfig.json
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\baitaplonC#.pdb
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\SQLConnection.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.AssemblyReference.cache
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Dangnhap.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Gdchinh.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.NhapHang1.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Properties.Resources.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Qlhhform.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.QuanLyTaiKhoan.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.SuaHang.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.suanhap.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Sua_QLTK.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.ThemHang.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC_.Them_QLTK.resources
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.GenerateResource.cache
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfoInputs.cache
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.AssemblyInfo.cs
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.csproj.CoreCompileInputs.cache
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.sourcelink.json
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplo.F07F75C1.Up2Date
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\refint\baitaplonC#.dll
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.pdb
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\baitaplonC#.genruntimeconfig.cache
+D:\C#\test\QLKH_Winform\baitaplonC#\obj\Debug\net8.0-windows\ref\baitaplonC#.dll
